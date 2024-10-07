@@ -1,0 +1,5 @@
+addSbtPlugin("org.scalameta" % "sbt-scalafmt" % "2.4.0")
+addSbtPlugin("org.wartremover" % "sbt-wartremover" % "2.4.15")
+addSbtPlugin("ch.epfl.scala" % "sbt-scalafix" % "0.9.25")
+addSbtPlugin("ch.epfl.scala" % "sbt-bloop" % "1.4.6")
+addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "1.0.0")

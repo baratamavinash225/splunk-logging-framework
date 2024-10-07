@@ -1,0 +1,17 @@
+.ammonite
+.bloop
+.bsp
+.idea
+.metals
+.vscode
+.git
+docs
+project/.bloop
+project/project
+project/target
+project/metals.sbt
+
+.gitignore
+.pre-commit-config.yaml
+.scalafmt.conf
+README.md

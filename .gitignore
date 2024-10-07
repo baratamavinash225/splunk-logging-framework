@@ -1,0 +1,29 @@
+/.idea/
+
+# SBT
+target
+project/target
+
+#Metals + Bloop build server
+.metals
+.bloop
+.bsp
+.vscode
+.ammonite
+project/metals.sbt
+project/project/.bloop
+project/project/metals.sbt
+project/project/project/metals.sbt
+/out/
+
+# IntelliJ
+.idea
+.idea_modules
+*.iml
+*.ipr
+*.iws
+*.xml
+.history
+
+# Secrets
+k8s/common/dev/secrets/*
